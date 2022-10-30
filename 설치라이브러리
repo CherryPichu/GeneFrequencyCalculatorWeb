@@ -1,0 +1,6 @@
+### 설치한 라이브러리 목록
+- express : 프레임워크
+- nunjucks  : view 엔진
+- npm i morgan nanoid cors swagger-jsdoc swagger-ui-express : swagger 사용 
+
+- https://www.youtube.com/watch?v=S8kmHtQeflo 참고

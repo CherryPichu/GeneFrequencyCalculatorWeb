@@ -1,0 +1,195 @@
+<html>
+    <head>
+        <title>계산기</title>
+    </head>
+    <body>
+        <div>
+            <h4>여성/남성 비율 계산기</h4>
+            반올림 계산 포함<br>
+                <table>
+                    <form >
+                        <tr>
+                            <td>남성</td>
+                            <td><input name="male" id="male"> </td>
+                        </tr>
+                        <tr>
+                            <td>여성</td>
+                            <td><input name="female" id="female"> </td>
+                        </tr>
+                        <tr>
+                            <td><button type="reset" >초기화</button></td>
+                            <td><button type="button"  onclick="clickCalcSexRatio();">제출</button> </td>
+                        </tr>   
+                        <tr><td>Female(%) : </td>
+                        <td><p id="sexResult"></p></td></tr>
+                    </form>
+                </table>
+
+
+                <h4>MAF 계산기 (Minor Allele Frequence)</h4>
+                반올림 계산 포함<br>
+                    <table>
+                        <form>
+                            <tr>
+                                <td>케이스 경우</td>
+                            </tr>
+                            <tr>
+                                <td>A(major)</td>
+                                <td><input id="alleleCaseMajor"> </td>
+                            </tr>
+                            <tr>
+                                <td>a(minor)</td>
+                                <td><input id="alleleCaseMinor"> </td>
+                            </tr>
+                            <tr>
+                                <td>컨트롤 경우</td>
+                            </tr>
+                                <tr>
+                                    <td>A(major)</td>
+                                    <td><input id="alleleControlMajor"> </td>
+                                </tr>
+                                <tr>
+                                    <td>a(minor)</td>
+                                    <td><input id="alleleControlMinor"> </td>
+                                </tr>
+                            <tr>
+                                <td><button type="reset" >초기화</button></td>
+                                <td><button type="button"  onclick="clickCalcAlleleRatio();">제출</button> </td>
+                                
+                            </tr>   
+                            <tr><td>결과(Ca/Co) : <p id="alleleResult"></p></td></tr>
+                        </form>
+                    </table>
+
+                    <h4>Genotypic Frequency 계산기</h4>
+                    반올림 계산 포함 (소수점 넷째자리까지)<br>
+                        <table>
+                            <form>
+                                <tr>
+                                    <td>케이스 경우</td>
+                                </tr>
+                                <tr>
+                                    <td>AA/Aa/aa(Case)</td>
+                                    <td><input id="CaseAA" style="width:50px;">/<input id="CaseAa" style="width:50px;">/<input id="Caseaa" style="width:50px;"> </td>
+                                </tr>
+                                <tr>
+                                    <td>컨트롤 경우</td>
+                                </tr>
+                                    <tr>
+                                        <td>AA/Aa/aa(Control)</td>
+                                        <td><input id="ControlAA" style="width:50px;">/<input id="ControlAa" style="width:50px;">/<input id="Controlaa" style="width:50px;"> </td>
+                                    </tr>
+                                <tr>
+                                    <td><button type="reset" >초기화</button></td>
+                                    <td><button type="button"  onclick="clickCalcGenoFreq();">제출</button> </td>
+                                    
+                                </tr>   
+                                <tr><td>결과(Ca/Co) : <p id="CaseFreqResult"></p></td></tr>
+                                <tr><td>결과(Ca/Co) : <p id="ControlFreqResult"></p></td></tr>
+                            </form>
+                        </table>
+
+        </div>
+    </body>
+</html>
+<script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
+<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+
+<script>
+
+
+    function clickCalcSexRatio() {
+        const male = $('#male').val()
+        const female = $('#female').val()
+        var result;
+        const params = {
+            male : male,
+            female : female,
+        }
+        // console.log(params)
+        $.ajax({
+            type: "POST",
+            url : "/api/calcSexRatio",
+            data : params,
+            success: (res) => {
+                result = JSON.parse(res) // input이 빈칸인 경우 {result : NaN}을 돌려받고 에러남
+                $('#sexResult').text(result.result)
+               
+            },
+            error:(res)=>{
+                console.error("ㅠㅠ 실패")
+            }
+        })
+        
+    }
+
+    function clickCalcAlleleRatio(){
+        const alleleControlMajor = $('#alleleControlMajor').val()
+        const alleleControlMinor = $('#alleleControlMinor').val()
+        const alleleCaseMinor = $('#alleleCaseMinor').val()
+        const alleleCaseMajor = $('#alleleCaseMajor').val()
+        var result;
+        const params = {
+            alleleCaseMajor:alleleCaseMajor,
+            alleleCaseMinor :alleleCaseMinor,
+            alleleControlMajor : alleleControlMajor,
+            alleleControlMinor :alleleControlMinor,
+        }
+        // console.log(params)
+        $.ajax({
+            type: "POST",
+            url : "/api/calcMAF",
+            data : params,
+            success: (res) => {
+                result = JSON.parse(res) // input이 빈칸인 경우 {result : NaN}을 돌려받고 에러남
+                $('#alleleResult').text(result.result)
+               
+            },
+            error:(res)=>{
+                console.error("ㅠㅠ 실패")
+            }
+        })
+        
+    }
+
+    function clickCalcGenoFreq(){
+        const CaseAA = $('#CaseAA').val()
+        const CaseAa = $('#CaseAa').val()
+        const Caseaa = $('#Caseaa').val()
+        const ControlAA = $('#ControlAA').val()
+        const ControlAa = $('#ControlAa').val()
+        const Controlaa = $('#Controlaa').val()
+
+
+        var result;
+        const params = {
+            CaseAA :CaseAA,
+            CaseAa :CaseAa,
+            Caseaa :Caseaa,
+
+            ControlAA :ControlAA,
+            ControlAa : ControlAa,
+            Controlaa :Controlaa,
+        }
+        // console.log(params)
+        $.ajax({
+            type: "POST",
+            url : "/api/calcGenoFreq",
+            data : params,
+            success: (res) => {
+                console.log(res)
+                result = res // input이 빈칸인 경우 {result : NaN}을 돌려받고 에러남
+                $('#CaseFreqResult').text(result.CaseFreqResult)
+                $('#ControlFreqResult').text(result.ControlFreqResult) 
+            },
+            error:(res)=>{
+                console.error("ㅠㅠ 실패")
+            }
+        })
+
+
+        
+        
+    }
+
+</script>
