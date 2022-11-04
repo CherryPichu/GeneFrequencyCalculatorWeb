@@ -1,0 +1,437 @@
+서버 작동중.
+[0mGET / [32m200[0m 7.690 ms - 7390[0m
+[0mGET /favicon.ico [33m404[0m 4.705 ms - 150[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 16.851 ms - 84[0m
+[0mPOST /api/calcSexRatio [32m200[0m 1.749 ms - 21[0m
+[ 43, 53, 3, 64 ]
+[0mPOST /api/calcMAF [32m200[0m 5.284 ms - 31[0m
+서버 작동중.
+[0mGET / [36m304[0m 5.142 ms - -[0m
+[0mGET / [36m304[0m 1.850 ms - -[0m
+서버 작동중.
+[ 0, 0, 0, 0 ]
+[0mPOST /api/calcMAF [32m200[0m 15.547 ms - 27[0m
+[ 0, 0, 0, 0 ]
+[0mPOST /api/calcMAF [32m200[0m 2.037 ms - 27[0m
+[ 0, 0, 0, 0 ]
+[0mPOST /api/calcMAF [32m200[0m 1.113 ms - 27[0m
+[ 0, 0, 0, 0 ]
+[0mPOST /api/calcMAF [32m200[0m 0.980 ms - 27[0m
+[0mPOST /api/calcSexRatio [32m200[0m 1.101 ms - 22[0m
+서버 작동중.
+[ 0, 0, 0, 0 ]
+[0mPOST /api/calcMAF [32m200[0m 16.577 ms - 27[0m
+[ 0, 0, 0, 0 ]
+[0mPOST /api/calcMAF [32m200[0m 1.566 ms - 27[0m
+[ 0, 0, 0, 0 ]
+[0mPOST /api/calcMAF [32m200[0m 1.201 ms - 27[0m
+[ 0, 0, 0, 0 ]
+[0mPOST /api/calcMAF [32m200[0m 1.004 ms - 27[0m
+[ 0, 0, 0, 0 ]
+[0mPOST /api/calcMAF [32m200[0m 1.670 ms - 27[0m
+[0mGET / [32m200[0m 7.261 ms - 7390[0m
+[ 435, 337, 543, 405 ]
+[0mPOST /api/calcMAF [32m200[0m 2.188 ms - 31[0m
+[0mGET / [36m304[0m 2.225 ms - -[0m
+[0mGET / [36m304[0m 1.319 ms - -[0m
+[0mGET / [36m304[0m 0.870 ms - -[0m
+[0mGET / [36m304[0m 0.564 ms - -[0m
+[0mGET / [36m304[0m 0.633 ms - -[0m
+[0mGET / [36m304[0m 0.576 ms - -[0m
+[0mGET / [36m304[0m 0.521 ms - -[0m
+[0mGET / [36m304[0m 0.946 ms - -[0m
+[ 752, 18, 952, 22 ]
+[0mPOST /api/calcMAF [32m200[0m 1.523 ms - 31[0m
+[ 716, 58, 868, 106 ]
+[0mPOST /api/calcMAF [32m200[0m 1.252 ms - 31[0m
+[ 3, 767, 0, 974 ]
+[0mPOST /api/calcMAF [32m200[0m 1.853 ms - 31[0m
+[0mPOST /api/calcSexRatio [32m200[0m 1.413 ms - 21[0m
+[0mGET / [32m200[0m 1.577 ms - 7390[0m
+[0mPOST /api/calcSexRatio [32m200[0m 1.340 ms - 20[0m
+[0mPOST /api/calcSexRatio [32m200[0m 1.199 ms - 21[0m
+[ 34, 532, 324, 53 ]
+[0mPOST /api/calcMAF [32m200[0m 1.537 ms - 31[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 1.622 ms - 84[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 1.153 ms - 84[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 1.113 ms - 66[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.987 ms - 66[0m
+[0mGET / [36m304[0m 0.632 ms - -[0m
+[ 172, 118, 142, 138 ]
+[0mPOST /api/calcMAF [32m200[0m 1.122 ms - 31[0m
+[ 263, 27, 261, 19 ]
+[0mPOST /api/calcMAF [32m200[0m 1.154 ms - 31[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.870 ms - 84[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.860 ms - 84[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 1.037 ms - 84[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.903 ms - 75[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 1.006 ms - 75[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.755 ms - 75[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.784 ms - 75[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.868 ms - 75[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.836 ms - 84[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 1.012 ms - 84[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.852 ms - 84[0m
+[0mGET /api/calcSexRatio [33m404[0m 4.137 ms - 155[0m
+[0mGET /favicon.ico [33m404[0m 0.844 ms - 150[0m
+[0mGET /api-docs/swagger-ui.css [32m200[0m 1.768 ms - 144967[0m
+[0mGET /api-docs/swagger-ui-bundle.js [32m200[0m 1.149 ms - 1060128[0m
+[0mGET /api-docs/swagger-ui-init.js [32m200[0m 0.398 ms - 1349[0m
+[0mGET /api-docs/swagger-ui-standalone-preset.js [32m200[0m 1.062 ms - 312217[0m
+[0mGET / [36m304[0m 0.604 ms - -[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.784 ms - 66[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.791 ms - 75[0m
+[0mGET / [32m200[0m 1.252 ms - 7390[0m
+[0mGET / [32m200[0m 0.994 ms - 7390[0m
+[0mGET / [32m200[0m 1.047 ms - 7390[0m
+[0mGET /favicon.ico [33m404[0m 0.695 ms - 150[0m
+[0mGET /favicon.ico [33m404[0m 0.875 ms - 150[0m
+[0mGET / [36m304[0m 0.556 ms - -[0m
+[0mPOST /api/calcSexRatio [32m200[0m 0.724 ms - 21[0m
+[0mPOST /api/calcSexRatio [32m200[0m 0.639 ms - 21[0m
+[ 34, 34, 53, 43 ]
+[0mPOST /api/calcMAF [32m200[0m 1.233 ms - 31[0m
+[ 34, 34, 53, 43 ]
+[0mPOST /api/calcMAF [32m200[0m 1.194 ms - 31[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.844 ms - 84[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.784 ms - 84[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.810 ms - 84[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.805 ms - 84[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.774 ms - 84[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 1.005 ms - 84[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.772 ms - 84[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.785 ms - 84[0m
+[0mGET / [32m200[0m 1.313 ms - 7407[0m
+[0mPOST /api/calcSexRatio [32m200[0m 0.724 ms - 21[0m
+[0mPOST /api/calcSexRatio [32m200[0m 0.728 ms - 21[0m
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [33m404[0m 1.594 ms - 162[0m
+[0mGET / [32m200[0m 1.205 ms - 7407[0m
+[0mPOST /tmUnblock.cgi [0m-[0m - ms - -[0m
+BadRequestError: request aborted
+    at IncomingMessage.onAborted (/home/drserver/workspace/node_modules/raw-body/index.js:238:10)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage._destroy (node:_http_incoming:224:10)
+    at _destroy (node:internal/streams/destroy:102:25)
+    at IncomingMessage.destroy (node:internal/streams/destroy:64:5)
+    at abortIncoming (node:_http_server:642:9)
+    at socketOnClose (node:_http_server:636:3)
+    at Socket.emit (node:events:525:35)
+    at TCP.<anonymous> (node:net:301:12)
+[0mGET /hudson [33m404[0m 0.874 ms - 145[0m
+[0mGET http://ifconfig.me/ [32m200[0m 1.427 ms - 7407[0m
+[0mGET http://51.81.134.166/a.php [33m404[0m 0.912 ms - 144[0m
+[0mGET / [32m200[0m 1.216 ms - 7407[0m
+[0mGET / [32m200[0m 1.114 ms - 7407[0m
+[0mPOST /GponForm/diag_Form?images/ [0m-[0m - ms - -[0m
+[0mGET /actuator/health [33m404[0m 0.748 ms - 154[0m
+[0mGET / [32m200[0m 1.072 ms - 7407[0m
+[0mGET / [32m200[0m 1.245 ms - 7407[0m
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [33m404[0m 0.791 ms - 162[0m
+[0mGET / [32m200[0m 1.042 ms - 7407[0m
+[0mGET / [32m200[0m 1.057 ms - 7407[0m
+[0mGET / [32m200[0m 0.945 ms - 7407[0m
+[0mGET /favicon.ico [33m404[0m 0.673 ms - 150[0m
+[0mPOST /GponForm/diag_Form?images/ [33m404[0m 0.725 ms - 158[0m
+[0mPOST /api/calcSexRatio [32m200[0m 0.928 ms - 21[0m
+[ NaN, NaN, NaN, NaN ]
+[0mPOST /api/calcMAF [32m200[0m 1.064 ms - 27[0m
+[ NaN, NaN, NaN, NaN ]
+[0mPOST /api/calcMAF [32m200[0m 1.087 ms - 27[0m
+[ NaN, NaN, NaN, NaN ]
+[0mPOST /api/calcMAF [32m200[0m 1.039 ms - 27[0m
+[ NaN, NaN, 23, 3 ]
+[0mPOST /api/calcMAF [32m200[0m 0.915 ms - 29[0m
+[ NaN, NaN, 23243, 3 ]
+[0mPOST /api/calcMAF [32m200[0m 1.034 ms - 29[0m
+[ NaN, NaN, 23243, 3 ]
+[0mPOST /api/calcMAF [32m200[0m 1.054 ms - 29[0m
+[0mGET /?male=54&female=543 [32m200[0m 1.055 ms - 7407[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.737 ms - 66[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.727 ms - 66[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.693 ms - 75[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.708 ms - 75[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.717 ms - 75[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.705 ms - 75[0m
+[0mGET /favicon.ico [33m404[0m 0.692 ms - 150[0m
+[0mGET / [0m-[0m - ms - -[0m
+[0mGET / [32m200[0m 0.974 ms - 7407[0m
+[0mGET /securityRealm/user/admin/search/index?q=a [33m404[0m 0.826 ms - 176[0m
+[0mGET / [32m200[0m 0.959 ms - 7407[0m
+[0mPOST /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php [33m404[0m 0.592 ms - 190[0m
+[0mGET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php [33m404[0m 0.736 ms - 189[0m
+[0mGET /index.php?s=/Index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP21 [33m404[0m 0.707 ms - 148[0m
+[0mGET /?XDEBUG_SESSION_START=phpstorm [32m200[0m 1.015 ms - 7407[0m
+[0mPOST /mifs/.;/services/LogService [33m404[0m 0.546 ms - 167[0m
+[0mGET /console/ [33m404[0m 0.631 ms - 147[0m
+[0mPOST /Autodiscover/Autodiscover.xml [33m404[0m 0.563 ms - 169[0m
+[0mGET /_ignition/execute-solution [33m404[0m 0.639 ms - 165[0m
+[0mGET / [32m200[0m 1.557 ms - 7407[0m
+[0mGET / [32m200[0m 1.035 ms - 7407[0m
+[0mPOST /cgi-bin/.%2e/.%2e/.%2e/.%2e/bin/sh [33m404[0m 0.554 ms - 174[0m
+[0mGET / [32m200[0m 0.964 ms - 7407[0m
+[0mGET /actuator/gateway/routes [33m404[0m 0.627 ms - 162[0m
+[0mGET / [36m304[0m 0.537 ms - -[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.777 ms - 84[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.707 ms - 84[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.766 ms - 84[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.764 ms - 84[0m
+[0mPOST /api/calcSexRatio [32m200[0m 0.731 ms - 21[0m
+[ 67, 675, 675, 65775 ]
+[0mPOST /api/calcMAF [32m200[0m 1.001 ms - 31[0m
+[ 67, 675, 675, 65 ]
+[0mPOST /api/calcMAF [32m200[0m 0.861 ms - 31[0m
+[ 67, 675, 65, 65 ]
+[0mPOST /api/calcMAF [32m200[0m 1.087 ms - 31[0m
+[ 67, 675, 75, 65 ]
+[0mPOST /api/calcMAF [32m200[0m 0.866 ms - 31[0m
+[ 67, 675, 75, 65 ]
+[0mPOST /api/calcMAF [32m200[0m 0.847 ms - 31[0m
+[ 67, 45, 75, 65 ]
+[0mPOST /api/calcMAF [32m200[0m 1.007 ms - 31[0m
+[ 67, 34, 75, 65 ]
+[0mPOST /api/calcMAF [32m200[0m 2.926 ms - 31[0m
+[ 67, 13, 75, 65 ]
+[0mPOST /api/calcMAF [32m200[0m 0.903 ms - 31[0m
+[ 67, 11, 75, 65 ]
+[0mPOST /api/calcMAF [32m200[0m 0.962 ms - 31[0m
+[ 67, 1, 75, 65 ]
+[0mPOST /api/calcMAF [32m200[0m 0.860 ms - 31[0m
+[ 32, 1, 75, 65 ]
+[0mPOST /api/calcMAF [32m200[0m 0.902 ms - 31[0m
+[ 59, 1, 75, 65 ]
+[0mPOST /api/calcMAF [32m200[0m 0.876 ms - 31[0m
+[ 59, 3, 75, 65 ]
+[0mPOST /api/calcMAF [32m200[0m 0.898 ms - 31[0m
+[ 59, 3, 75, 65 ]
+[0mPOST /api/calcMAF [32m200[0m 0.836 ms - 31[0m
+[ 59, 6, 75, 65 ]
+[0mPOST /api/calcMAF [32m200[0m 0.878 ms - 31[0m
+[ 59, 7, 75, 65 ]
+[0mPOST /api/calcMAF [32m200[0m 0.888 ms - 31[0m
+[ 59, 8, 75, 65 ]
+[0mPOST /api/calcMAF [32m200[0m 0.922 ms - 31[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.723 ms - 84[0m
+[0mPOST /api/calcSexRatio [32m200[0m 0.624 ms - 22[0m
+[0mPOST /api/calcSexRatio [32m200[0m 0.620 ms - 22[0m
+[ NaN, NaN, NaN, NaN ]
+[0mPOST /api/calcMAF [32m200[0m 0.795 ms - 27[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.656 ms - 66[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.600 ms - 66[0m
+[0mPOST /api/calcSexRatio [32m200[0m 0.592 ms - 22[0m
+[0mPOST /api/calcSexRatio [32m200[0m 0.587 ms - 22[0m
+[0mPOST /api/calcSexRatio [32m200[0m 1.233 ms - 22[0m
+[0mPOST /api/calcSexRatio [32m200[0m 0.612 ms - 22[0m
+[0mPOST /api/calcSexRatio [32m200[0m 0.596 ms - 22[0m
+[ NaN, NaN, NaN, NaN ]
+[0mPOST /api/calcMAF [32m200[0m 0.824 ms - 27[0m
+[ NaN, NaN, NaN, NaN ]
+[0mPOST /api/calcMAF [32m200[0m 0.826 ms - 27[0m
+[ NaN, NaN, NaN, NaN ]
+[0mPOST /api/calcMAF [32m200[0m 0.802 ms - 27[0m
+[ NaN, NaN, NaN, NaN ]
+[0mPOST /api/calcMAF [32m200[0m 0.772 ms - 27[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.627 ms - 66[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.636 ms - 66[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.630 ms - 66[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.606 ms - 66[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.606 ms - 66[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.599 ms - 66[0m
+[0mPOST /api/calcSexRatio [32m200[0m 0.602 ms - 22[0m
+[0mPOST /api/calcSexRatio [32m200[0m 0.641 ms - 22[0m
+[0mGET / [32m200[0m 0.982 ms - 7407[0m
+[0mGET / [36m304[0m 0.518 ms - -[0m
+[0mPOST /api/calcSexRatio [32m200[0m 0.722 ms - 21[0m
+[ 23, 12, 43, 23 ]
+[0mPOST /api/calcMAF [32m200[0m 0.898 ms - 31[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.738 ms - 84[0m
+[0mGET / [32m200[0m 1.011 ms - 7407[0m
+[0mGET http://www.baidu.com/cache/global/img/gs.gif [33m404[0m 0.660 ms - 162[0m
+[0mGET / [32m200[0m 0.907 ms - 7407[0m
+[0mGET / [32m200[0m 1.250 ms - 7407[0m
+[0mGET /favicon.ico [33m404[0m 0.601 ms - 150[0m
+[0mPOST /api/calcSexRatio [32m200[0m 0.719 ms - 21[0m
+[ 30, 20, 40, 10 ]
+[0mPOST /api/calcMAF [32m200[0m 0.763 ms - 31[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 0.741 ms - 84[0m
+[ 30, 20, 40, 10 ]
+[0mPOST /api/calcMAF [32m200[0m 0.856 ms - 31[0m
+[ 30, 20, NaN, NaN ]
+[0mPOST /api/calcMAF [32m200[0m 0.838 ms - 29[0m
+[0mGET / [36m304[0m 0.505 ms - -[0m
+[0mGET /favicon.ico [33m404[0m 0.532 ms - 150[0m
+서버 작동중.
+[0mGET / [32m200[0m 7.466 ms - 7407[0m
+서버 작동중.
+[0mGET / [36m304[0m 5.696 ms - -[0m
+[0mPOST /api/calcSexRatio [32m200[0m 17.287 ms - 21[0m
+[ 32, 21, 43, 2 ]
+[0mPOST /api/calcMAF [32m200[0m 5.590 ms - 31[0m
+[0mPOST /api/calcSexRatio [32m200[0m 1.588 ms - 21[0m
+[0mPOST /api/calcSexRatio [32m200[0m 1.304 ms - 21[0m
+[ 40, 20, 30, 3 ]
+[0mPOST /api/calcMAF [32m200[0m 1.761 ms - 31[0m
+[ 40, 20, 30, 10 ]
+[0mPOST /api/calcMAF [32m200[0m 1.665 ms - 31[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 1.714 ms - 84[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 1.649 ms - 75[0m
+[0mPOST /api/calcGenoFreq [32m200[0m 2.063 ms - 75[0m
+[0mGET / [32m200[0m 5.067 ms - 7407[0m
+[0mGET / [36m304[0m 0.988 ms - -[0m
+[0mGET / [36m304[0m 0.817 ms - -[0m
+[0mGET / [36m304[0m 0.642 ms - -[0m
+[0mGET / [36m304[0m 0.648 ms - -[0m
+[0mGET / [32m200[0m 1.327 ms - 7407[0m
+[0mGET /favicon.ico [33m404[0m 3.649 ms - 150[0m
+[0mGET /robots.txt [33m404[0m 1.278 ms - 149[0m
+[0mGET /sitemap.xml [33m404[0m 0.915 ms - 150[0m
+[0mGET / [32m200[0m 1.626 ms - 7407[0m
+[0mGET http://www.msftncsi.com/ncsi.txt [33m404[0m 1.355 ms - 147[0m
+[0mGET /HNAP1/ [33m404[0m 0.799 ms - 145[0m
+[0mGET /hudson/script [33m404[0m 1.153 ms - 152[0m
+[0mGET /script [33m404[0m 0.848 ms - 145[0m
+[0mGET /sqlite/main.php [33m404[0m 0.827 ms - 154[0m
+[0mGET /sqlitemanager/main.php [33m404[0m 0.989 ms - 161[0m
+[0mGET /SQLiteManager/main.php [33m404[0m 1.032 ms - 161[0m
+[0mGET /SQLite/main.php [33m404[0m 1.005 ms - 154[0m
+[0mGET /SQlite/main.php [33m404[0m 0.993 ms - 154[0m
+[0mGET /main.php [33m404[0m 0.779 ms - 147[0m
+[0mGET /test/sqlite/SQLiteManager-1.2.0/SQLiteManager-1.2.0/main.php [33m404[0m 1.008 ms - 199[0m
+[0mGET /SQLiteManager-1.2.4/main.php [33m404[0m 0.802 ms - 167[0m
+[0mGET /agSearch/SQlite/main.php [33m404[0m 0.786 ms - 163[0m
+[0mGET /phpmyadmin/ [33m404[0m 0.764 ms - 150[0m
+[0mGET /phpMyAdmin/ [33m404[0m 0.750 ms - 150[0m
+[0mGET /PMA/ [33m404[0m 0.733 ms - 143[0m
+[0mGET /pma/ [33m404[0m 0.723 ms - 143[0m
+[0mGET /admin/ [33m404[0m 0.716 ms - 145[0m
+[0mGET /dbadmin/ [33m404[0m 0.718 ms - 147[0m
+[0mGET /mysql/ [33m404[0m 0.719 ms - 145[0m
+[0mGET /myadmin/ [33m404[0m 0.719 ms - 147[0m
+[0mGET /openserver/phpmyadmin/ [33m404[0m 0.723 ms - 161[0m
+[0mGET /phpmyadmin2/ [33m404[0m 0.869 ms - 151[0m
+[0mGET /phpMyAdmin2/ [33m404[0m 1.852 ms - 151[0m
+[0mGET /phpMyAdmin-2/ [33m404[0m 0.734 ms - 152[0m
+[0mGET /php-my-admin/ [33m404[0m 0.711 ms - 152[0m
+[0mGET /phpMyAdmin-2.2.3/ [33m404[0m 0.752 ms - 156[0m
+[0mGET /phpMyAdmin-2.2.6/ [33m404[0m 0.729 ms - 156[0m
+[0mGET /phpMyAdmin-2.5.1/ [33m404[0m 0.741 ms - 156[0m
+[0mGET /phpMyAdmin-2.5.4/ [33m404[0m 0.720 ms - 156[0m
+[0mGET /phpMyAdmin-2.5.5-rc1/ [33m404[0m 0.754 ms - 160[0m
+[0mGET /phpMyAdmin-2.5.5-rc2/ [33m404[0m 0.727 ms - 160[0m
+[0mGET /phpMyAdmin-2.5.5/ [33m404[0m 0.726 ms - 156[0m
+[0mGET /phpMyAdmin-2.5.5-pl1/ [33m404[0m 0.747 ms - 160[0m
+[0mGET /phpMyAdmin-2.5.6-rc1/ [33m404[0m 0.740 ms - 160[0m
+[0mGET /phpMyAdmin-2.5.6-rc2/ [33m404[0m 1.518 ms - 160[0m
+[0mGET /phpMyAdmin-2.5.6/ [33m404[0m 0.731 ms - 156[0m
+[0mGET /phpMyAdmin-2.5.7/ [33m404[0m 0.701 ms - 156[0m
+[0mGET /phpMyAdmin-2.5.7-pl1/ [33m404[0m 0.752 ms - 160[0m
+[0mGET /phpMyAdmin-2.6.0-alpha/ [33m404[0m 0.720 ms - 162[0m
+[0mGET /phpMyAdmin-2.6.0-alpha2/ [33m404[0m 0.889 ms - 163[0m
+[0mGET /phpMyAdmin-2.6.0-beta1/ [33m404[0m 0.717 ms - 162[0m
+[0mGET /phpMyAdmin-2.6.0-beta2/ [33m404[0m 0.725 ms - 162[0m
+[0mGET /phpMyAdmin-2.6.0-rc1/ [33m404[0m 0.727 ms - 160[0m
+[0mGET /phpMyAdmin-2.6.0-rc2/ [33m404[0m 0.714 ms - 160[0m
+[0mGET /phpMyAdmin-2.6.0-rc3/ [33m404[0m 0.712 ms - 160[0m
+[0mGET /phpMyAdmin-2.6.0/ [33m404[0m 0.709 ms - 156[0m
+[0mGET /phpMyAdmin-2.6.0-pl1/ [33m404[0m 0.729 ms - 160[0m
+[0mGET /phpMyAdmin-2.6.0-pl2/ [33m404[0m 0.699 ms - 160[0m
+[0mGET /phpMyAdmin-2.6.0-pl3/ [33m404[0m 0.726 ms - 160[0m
+[0mGET /phpMyAdmin-2.6.1-rc1/ [33m404[0m 0.698 ms - 160[0m
+[0mGET /phpMyAdmin-2.6.1-rc2/ [33m404[0m 0.722 ms - 160[0m
+[0mGET /phpMyAdmin-2.6.1/ [33m404[0m 0.698 ms - 156[0m
+[0mGET /phpMyAdmin-2.6.1-pl1/ [33m404[0m 0.873 ms - 160[0m
+[0mGET /phpMyAdmin-2.6.1-pl2/ [33m404[0m 0.720 ms - 160[0m
+[0mGET /phpMyAdmin-2.6.1-pl3/ [33m404[0m 0.701 ms - 160[0m
+[0mGET /phpMyAdmin-2.6.2-rc1/ [33m404[0m 0.702 ms - 160[0m
+[0mGET /phpMyAdmin-2.6.2-beta1/ [33m404[0m 0.695 ms - 162[0m
+[0mGET /phpMyAdmin-2.6.2-rc1/ [33m404[0m 0.693 ms - 160[0m
+[0mGET /phpMyAdmin-2.6.2/ [33m404[0m 0.691 ms - 156[0m
+[0mGET /phpMyAdmin-2.6.2-pl1/ [33m404[0m 0.700 ms - 160[0m
+[0mGET /phpMyAdmin-2.6.3/ [33m404[0m 1.756 ms - 156[0m
+[0mGET /phpMyAdmin-2.6.3-rc1/ [33m404[0m 0.705 ms - 160[0m
+[0mGET /phpMyAdmin-2.6.3/ [33m404[0m 0.768 ms - 156[0m
+[0mGET /phpMyAdmin-2.6.3-pl1/ [33m404[0m 0.699 ms - 160[0m
+[0mGET /phpMyAdmin-2.6.4-rc1/ [33m404[0m 0.713 ms - 160[0m
+[0mGET /phpMyAdmin-2.6.4-pl1/ [33m404[0m 0.736 ms - 160[0m
+[0mGET /phpMyAdmin-2.6.4-pl2/ [33m404[0m 0.717 ms - 160[0m
+[0mGET /phpMyAdmin-2.6.4-pl3/ [33m404[0m 0.711 ms - 160[0m
+[0mGET /phpMyAdmin-2.6.4-pl4/ [33m404[0m 0.705 ms - 160[0m
+[0mGET /phpMyAdmin-2.6.4/ [33m404[0m 0.696 ms - 156[0m
+[0mGET /phpMyAdmin-2.7.0-beta1/ [33m404[0m 0.697 ms - 162[0m
+[0mGET /phpMyAdmin-2.7.0-rc1/ [33m404[0m 0.713 ms - 160[0m
+[0mGET /phpMyAdmin-2.7.0-pl1/ [33m404[0m 0.689 ms - 160[0m
+[0mGET /phpMyAdmin-2.7.0-pl2/ [33m404[0m 0.727 ms - 160[0m
+[0mGET /phpMyAdmin-2.7.0/ [33m404[0m 0.721 ms - 156[0m
+[0mGET /phpMyAdmin-2.8.0-beta1/ [33m404[0m 0.694 ms - 162[0m
+[0mGET /phpMyAdmin-2.8.0-rc1/ [33m404[0m 0.687 ms - 160[0m
+[0mGET /phpMyAdmin-2.8.0-rc2/ [33m404[0m 0.698 ms - 160[0m
+[0mGET /phpMyAdmin-2.8.0/ [33m404[0m 0.694 ms - 156[0m
+[0mGET /phpMyAdmin-2.8.0.1/ [33m404[0m 0.715 ms - 158[0m
+[0mGET /phpMyAdmin-2.8.0.2/ [33m404[0m 0.714 ms - 158[0m
+[0mGET /phpMyAdmin-2.8.0.3/ [33m404[0m 0.699 ms - 158[0m
+[0mGET /phpMyAdmin-2.8.0.4/ [33m404[0m 0.895 ms - 158[0m
+[0mGET /phpMyAdmin-2.8.1-rc1/ [33m404[0m 0.680 ms - 160[0m
+[0mGET /phpMyAdmin-2.8.1/ [33m404[0m 0.729 ms - 156[0m
+[0mGET /phpMyAdmin-2.8.2/ [33m404[0m 0.695 ms - 156[0m
+[0mGET /sqlmanager/ [33m404[0m 0.744 ms - 150[0m
+[0mGET /mysqlmanager/ [33m404[0m 0.812 ms - 152[0m
+[0mGET /p/m/a/ [33m404[0m 0.708 ms - 145[0m
+[0mGET /PMA2005/ [33m404[0m 0.718 ms - 147[0m
+[0mGET /pma2005/ [33m404[0m 0.687 ms - 147[0m
+[0mGET /phpmanager/ [33m404[0m 0.716 ms - 150[0m
+[0mGET /php-myadmin/ [33m404[0m 0.723 ms - 151[0m
+[0mGET /phpmy-admin/ [33m404[0m 0.699 ms - 151[0m
+[0mGET /webadmin/ [33m404[0m 0.712 ms - 148[0m
+[0mGET /sqlweb/ [33m404[0m 0.699 ms - 146[0m
+[0mGET /websql/ [33m404[0m 0.734 ms - 146[0m
+[0mGET /webdb/ [33m404[0m 0.724 ms - 145[0m
+[0mGET /mysqladmin/ [33m404[0m 0.733 ms - 150[0m
+[0mGET /mysql-admin/ [33m404[0m 0.755 ms - 151[0m
+서버 작동중.
+[0mGET / [32m200[0m 7.901 ms - 7413[0m
+[0mGET /favicon.ico [33m404[0m 4.724 ms - 150[0m
+서버 작동중.
+서버 작동중.
+[0mGET / [32m200[0m 7.537 ms - 7413[0m
+[0mGET /favicon.ico [33m404[0m 4.747 ms - 150[0m
+[0mGET / [36m304[0m 2.157 ms - -[0m
+[0mPOST /api/calcSexRatio [32m200[0m 17.284 ms - 20[0m
+[ 243, 34, 43, 24 ]
+[0mPOST /api/calcMAF [32m200[0m 5.663 ms - 31[0m
+[0mGET / [32m200[0m 2.087 ms - 7413[0m
+[0mGET / [36m304[0m 1.191 ms - -[0m
+[0mGET / [36m304[0m 0.731 ms - -[0m
+[0mGET / [36m304[0m 1.004 ms - -[0m
+[0mGET / [36m304[0m 0.992 ms - -[0m
+[0mGET / [36m304[0m 0.946 ms - -[0m
+[0mGET / [36m304[0m 0.958 ms - -[0m
+[0mPOST /api/calcSexRatio [32m200[0m 1.430 ms - 21[0m
+[0mPOST /api/calcSexRatio [32m200[0m 1.051 ms - 21[0m
+[0mGET / [32m200[0m 1.427 ms - 7413[0m
+[0mGET / [32m200[0m 1.553 ms - 7413[0m
+[0mGET /favicon.ico [33m404[0m 1.071 ms - 150[0m
+[0mGET / [36m304[0m 0.947 ms - -[0m
+[0mGET /v2/ [33m404[0m 1.095 ms - 142[0m
+[0mGET / [32m200[0m 1.463 ms - 7413[0m
+[0mGET / [32m200[0m 1.168 ms - 7413[0m
+[0mGET / [32m200[0m 1.113 ms - 7413[0m
+[0mGET /favicon.ico [33m404[0m 1.006 ms - 150[0m
+[0mGET / [36m304[0m 0.796 ms - -[0m
+[0mGET /favicon.ico [33m404[0m 0.841 ms - 150[0m
+[0mGET / [32m200[0m 1.407 ms - 7413[0m
+[0mGET / [36m304[0m 0.673 ms - -[0m
+[0mGET /favicon.ico [33m404[0m 0.817 ms - 150[0m
+[0mGET / [36m304[0m 0.630 ms - -[0m
+[0mGET /favicon.ico [33m404[0m 0.771 ms - 150[0m
+[0mGET / [36m304[0m 0.770 ms - -[0m
+[0mGET / [32m200[0m 1.359 ms - 7413[0m
+[0mGET / [32m200[0m 1.363 ms - 7413[0m
+[0mGET / [32m200[0m 1.424 ms - 7413[0m
+[0mGET /favicon.ico [33m404[0m 0.785 ms - 150[0m
+[0mGET / [32m200[0m 1.394 ms - 7413[0m
+[0mGET /robots.txt [33m404[0m 0.994 ms - 149[0m
+[0mGET /sitemap.xml [33m404[0m 1.003 ms - 150[0m
+[0mGET / [32m200[0m 2.057 ms - 7413[0m
+[0mGET / [32m200[0m 1.092 ms - 7413[0m
+[0mGET / [32m200[0m 1.109 ms - 7413[0m
+[0mGET /favicon.ico [33m404[0m 1.015 ms - 150[0m
+[0mGET / [32m200[0m 1.214 ms - 7413[0m
