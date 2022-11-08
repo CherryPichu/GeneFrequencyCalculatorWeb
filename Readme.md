@@ -19,7 +19,7 @@ Genotyping Frequency와 MAF 그리고 성별 비율을 자동으로 계산해준
 
 
 #### 실제 작동 (Version2)
-박현[] 기여자 분이 추가로 bootstrap 작업을 적용해줌.
+[박현](https://github.com/HyunP-dev) 기여자 분이 추가로 bootstrap 작업을 적용해줌.
 ![alt text](./version2.jpg)
 
 #### 실제 작동 (Version1)
